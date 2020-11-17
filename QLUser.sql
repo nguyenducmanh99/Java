@@ -31,8 +31,7 @@ idEmployees  INT NOT NULL
 
 INSERT INTO `User`  (UserID   , FullName, 			Email,				    `Password`,			`Role`		) 
 VALUES
-					(1,			N'Nguyen Duc Manh','
-                    ', 'M123456',		     'MANAGER'	),
+					(1,			N'Nguyen Duc Manh','nguyenducmanh@gmail.com', 'M123456',		     'MANAGER'	),
 					(2,			N'Ngo Hai Ninh','ninhhaingo@gmail.com',       'Aabcdxyz',			'USER'	),
                     (3,			N'Tran Lan Anh','tranlananh@gmail.com',      'Alanhanhhh',			'USER'	),
                     (4,			N'Dam Phuong Uyen',	'phuonguyen@gmail.com',   'A09012001',		     'USER'),
